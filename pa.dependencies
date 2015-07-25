@@ -19,7 +19,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_device_sony_shinano-common",
+        "repository":   "someone755/android_device_sony_shinano-common",
         "target_path":  "device/sony/shinano-common",
         "revision":     "cm-12.1"
     },

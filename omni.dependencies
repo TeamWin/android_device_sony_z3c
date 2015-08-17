@@ -1,13 +1,13 @@
 [
     {
-        "remote":       "github",
-        "repository":   "SuperHanss/android_bootable_recovery-twrp",
+        "remote":       "omnirom",
+        "repository":   "android_bootable_recovery-twrp",
         "target_path":  "bootable/recovery-twrp",
-        "revision":     "lp5.1"
+        "revision":     "android-5.1"
     },
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_kernel_sony_msm8974",
+        "repository":   "someone755/android_kernel_sony_msm8974",
         "target_path":  "kernel/sony/msm8974",
         "revision":     "cm-12.1"
     },
